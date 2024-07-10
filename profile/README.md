@@ -2,7 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+the+world+of+uyumMobile.)](https://github.com/uyummobile-organization)
 
-!GitHub İstatistikleri
+
+
+## Projelerimiz
+- [Proje 1](https://github.com/uyummobile-organization/app_lioxhr)
+
+## İstatistikler
+![Organizasyon Adı GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uyummobile&show_icons=true&theme=radical)
+![Top Contributors](https://contrib.rocks/image?repo=uyummobile-organization/app_lioxhr)
 
 
 <table width="100%">
